@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RowdyHacks2020/precache-manifest.69d745e201a2b64579261105791db037.js"
+  "/RowdyHacks2020/precache-manifest.6d890a99372bc4f3e52b9c20d21895b8.js"
 );
 
 self.addEventListener('message', (event) => {
